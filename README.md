@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabbocse&label=Profile%20views&color=0e75b6&style=flat" alt="kabbocse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabbocse" alt="kabbocse" /></a> </p>
 
 - 🔭 I’m currently working on **Automation, Manual and API Testing**
 
