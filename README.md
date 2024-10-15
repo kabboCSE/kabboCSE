@@ -21,11 +21,47 @@
 <a href="https://linkedin.com/in/kabbo512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabbo512" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<br /> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabbocse&show_icons=true&locale=en&layout=compact" alt="kabbocse" /></p>
+## Languages 📙
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabbocse&show_icons=true&locale=en" alt="kabbocse" /></p>
+<!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-000005?style=flat&logo=flutter)
+<!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabbocse&" alt="kabbocse" /></p>
+## Tools 🛠️
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br />
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) <br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+
+
+## GitHub Overview 💻
+
+<p align="left">
+ <a href="https://github.com/kabboCSE"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabboCSE&theme=dark"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/kabboCSE"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kabboCSE&layout=compact&theme=radical" />
+</a>
+</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kabboCSE&theme=synthwave&show_icons=true" alt="kabboCSE" />
