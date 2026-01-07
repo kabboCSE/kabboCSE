@@ -12,8 +12,11 @@
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B3838&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shahriar+Kabbo;SQA+Engineer;Automation+%7C+Manual+%7C+API+Testing" alt="Typing SVG" />
 </h1> -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B3838&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shahriar+Kabbo;SQA+Engineer;Automation+%7C+Manual+%7C+API+Testing" alt="Typing SVG" />
+</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B3838&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shahriar+Kabbo;SQA+Engineer+%7C+Web+Developer;Automation+%7C+Manual+%7C+API+Testing;MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
