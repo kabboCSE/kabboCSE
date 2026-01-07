@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -78,17 +78,7 @@
 &theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<!-- <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabboCSE&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabboCSE&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabboCSE&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
---- -->
 
 
 ## 📈 Contribution Graph
