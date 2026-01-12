@@ -23,17 +23,18 @@
 
 ### 👨‍💻 About Me
 
- 🔭 Currently working as a Software Quality Assurance Engineer at Akij iBOS, focusing on Manual, Automation & API Testing, along with Web Development
+ 🔭 Currently working -  as a Software Quality Assurance Engineer at Akij iBOS, focusing on Manual, Automation & API Testing, along with Web Development
   
- 🌱 Exploring Next.js and improving test automation frameworks
+ 🌱 Exploring -  Next.js and improving test automation frameworks
   
- 🧪 Experienced in Manual Testing, API Testing (Postman), and Automation Testing
+ 🧪 Experienced in -  Manual Testing, API Testing (Postman), Automation Testing , React js, Express js, MongoDB
   
- 💻 Developing applications using MERN Stack & modern frontend tools
+ 💻 Developing - applications using MERN Stack & modern frontend tools
   
- 👯 Looking to collaborate on Open Source projects related to QA, Testing, and Web Development
+ 👯 Looking to -  collaborate on Open Source projects related to QA, Testing, and Web Development
 
-🚀 Passionate about building high-quality, scalable, and bug-free applications
+🚀 Passionate about -  building high-quality, scalable, and bug-free applications
+
 - 📫 Reach me: **shahriarkabbo100@gmail.com**
 - 🔗 LinkedIn: **[kabbo512](https://www.linkedin.com/in/kabbo512/)**
 
